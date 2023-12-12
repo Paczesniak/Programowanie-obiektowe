@@ -90,3 +90,34 @@ a:active{
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+form{
+    border: 2px black solid;
+    padding: 20px;
+    
+    
+    
+}
+
+.kropki{
+    display:block;
+   margin-bottom: 10px;
+   margin-top: 10px;
+    
+}
+
+button{
+    margin: 20px;
+}
+
+.section{
+    
+    display: flex;
+}
+
+
+.bo{
+    margin-left: 40px;
+    margin-top: 10px;
+   
+}
