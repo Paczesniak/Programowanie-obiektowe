@@ -1,0 +1,92 @@
+body{
+    background-color: yellow;
+    margin: 10px 5px 10px 5px;
+}
+
+.tabela{
+    margin: auto;
+    text-align: center;
+    margin-top: 0;
+    width: 90vh;
+    height: 90vh;
+    border: 2px black solid;
+    border-collapse: collapse;
+    background-color: white;
+    
+    
+    
+}
+
+tr, td{
+    border: 2px black solid;
+     /*ustawienie tekstu do góry */
+    
+    
+    
+    
+}
+img{
+    width: 250px;
+    height: 250px;
+    
+    
+}
+.fota{
+    width: 20%;
+    height: 20%;
+    
+}
+ .siedem{
+    height: 300px;
+ }
+ .cztery{
+    width: 100px;
+ }
+ .jeden{
+    width: 100px;
+    
+    
+ }
+
+ .tabelka{
+    margin: auto;
+    width: 80%;
+    height: 30%;
+    background-color: yellow;
+	border-color: black;
+    border-collapse: collapse;
+    border-top-style:dashed ;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    
+    
+   
+ }
+
+ .tabelka td{
+    border-style: dashed;
+ }
+
+p{
+    color: blue;
+    margin: 0;
+}
+
+a{
+    color: black;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+a:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    color: red;
+    transition: all 0.3s ease;
+}
+
+a:active{
+    font-size: 20px;
+    text-decoration: none;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
